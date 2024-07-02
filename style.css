@@ -1,0 +1,44 @@
+.heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#grey {
+    height: 150px;
+    width: 150px;
+    background-color: grey;
+}
+
+#white {
+    height: 150px;
+    width: 150px;
+    background-color: #fff;
+}
+
+#blue {
+    height: 150px;
+    width: 150px;
+    background-color: blue;
+}
+
+#yellow {
+    height: 150px;
+    width: 150px;
+    background-color: yellow;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+}
